@@ -2,6 +2,7 @@
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
+  "homepage": "https://gitname.github.io/react-gh-pages",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
@@ -10,17 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "url": "git+https://github.com/ArnabNath1/Portfolio"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+    "url": "https://github.com/ArnabNath1/Portfolio/issues"
   },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
+  "homepage": "https://github.com/ArnabNath1/Portfolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.9.3",
+    "gh-pages": "^5.0.0",
     "parcel": "^2.8.2",
     "prettier": "^2.8.1"
   },
